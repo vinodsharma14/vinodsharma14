@@ -12,7 +12,7 @@
   <a href="https://github.com/vinodsharma14">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="https://www.youtube.com/c/technicalvinod7117">
+  <a href="https://www.youtube.com/technicalvinod7117">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://www.instagram.com/_.vin0d._">
