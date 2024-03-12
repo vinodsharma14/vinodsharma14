@@ -28,3 +28,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axiftaj&theme=dark)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vinodsharma14&show_icons=true&locale=en&layout=compact" alt="vinodsharma14" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodsharma14&show_icons=true&locale=en" alt="vinodsharma14" /></p>
+
