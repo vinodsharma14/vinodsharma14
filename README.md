@@ -1,11 +1,9 @@
  <h1 align="center">Hi 👋, I'm Asif Taj</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: axiftaj@gmail.com
-- 😄 My website: https://thetechbrothers.net
-- ⚡ Fun fact: I'm comming to teen
+- 🔭 I’m currently working on jquery
+- 🌱 I’m currently learning Backend Web development
+- 💬 Ask me anything about HTML CSS Javascript
+- 📫 How to reach me: vinodsharma.v853@gmail.com
   
 ### Connect with me:
 <div id="badges">
@@ -21,7 +19,7 @@
 </div>
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,git,github,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,git,github,)](https://skillicons.dev)
 
 ![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=axiftaj&show_icons=true&theme=dark)
 
